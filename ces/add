@@ -1,0 +1,3 @@
+function add(a1,a2)
+return print(a1 + a2)
+end
