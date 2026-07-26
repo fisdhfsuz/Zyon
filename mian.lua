@@ -1,4 +1,4 @@
---1
+file.checkDir("/storage/emulated/0/QY科技")
 you = {
     "王牌竞速",
     "极道无赖",
