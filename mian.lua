@@ -5,6 +5,7 @@ you = {
     "苍翼混沌效应",
     "重生细胞",
     "魔法工艺",
+'测试一下'
 }
 url = "https://cdn.jsdmirror.com/gh/fisdhfsuz/Zyon@main/游戏项目/"
 BASE_PATH = "/storage/emulated/0/Android/"
